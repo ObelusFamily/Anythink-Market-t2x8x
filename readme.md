@@ -10,4 +10,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+- Make sure you have Docker installed before starting the setup
+- After that go ahead cloning the repository | run in Git Bash: git clone {repository URL} 
+- "cd" into the repository and compose a container environment by using "docker compose up" in the Git Bash
+- Wait for the initial installation
